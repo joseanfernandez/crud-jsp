@@ -19,8 +19,6 @@ Si nos equivocamos nos muestra un mensaje de error que desaparece con un click.
  
 |<img src="capturas/01.png" alt="alt text" width="450" height="250">|<img src="capturas/02.png" alt="alt text" width="450" height="250">|
 |-----|-----|
-|<img src="capturas/03.png" alt="alt text" width="450" height="250">|<img src="capturas/04.png" alt="alt text" width="450" height="250">|
-
 Si accedemos vemos la pantalla principal del usuario, que se divide en 4 zonas diferenciadas.
 - La barra de navegación, donde tenemos el buscador, para encontrar amigos por su nombre.
   Además encontramos nuestro nombre de usuario que nos llevará a la patalla que modifica nuestros datos.
@@ -28,6 +26,9 @@ Si accedemos vemos la pantalla principal del usuario, que se divide en 4 zonas d
 - A la izquierda nos encontramos la lista de juegos del usuario, que tiene una medida fija, asi que si la superamos, deberemos   hacer scroll para verla completa.
 - Derecha superior, muestra el top 3 de amigos con más juegos.
 - Derecha inferior, nos permite añadir o eliminar juegos de nuestro perfil.
+|<img src="capturas/03.png" alt="alt text" width="450" height="250">|<img src="capturas/04.png" alt="alt text" width="450" height="250">|
+
+
 
 |<img src="capturas/05.png" alt="alt text" width="450" height="250">|<img src="capturas/06.png" alt="alt text" width="450" height="250">|
 |-----|-----|
