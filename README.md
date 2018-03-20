@@ -17,7 +17,7 @@ La base de datos consta de las tablas:
   de selección.
 - Tienen: Almacena los juegos que tiene cada usuario.
 
-<img src="capturas/bbdd.png" alt="alt text" width="450" height="250">|
+<img src="capturas/bbdd.png" alt="alt text">
 
 
 ## Vistas de la aplicación
