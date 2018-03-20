@@ -15,5 +15,6 @@ Por otra parte, el administrador será el encargado de dar de alta los juegos en
 ## Vistas de la aplicación
 
 <img src="capturas/01.png" alt="alt text" width="450" height="250">
+<img src="capturas/02.png" alt="alt text" width="450" height="250">
 
 
