@@ -62,13 +62,13 @@
           while (dato.next()) {
        %>
                                             <label for="email">Email </label>
-                                            <input class="onlyread" type="text" name="email" value="<%= dato.getString(" email ")%>" readonly />
+                                            <input class="onlyread" type="text" name="email" value="<%= dato.getString("email")%>" readonly />
                                             <label for="nom">Nombre </label>
-                                            <input type="text" name="nom" value="<%= dato.getString(" nom ")%>" />
+                                            <input type="text" name="nom" value="<%= dato.getString("nom")%>" />
                                             <label for="ape">Apellido </label>
-                                            <input type="text" name="ape" value="<%= dato.getString(" ape ")%>" />
+                                            <input type="text" name="ape" value="<%= dato.getString("ape")%>" />
                                             <label for="passw">Contraseña </label>
-                                            <input type="password" name="passw" value="<%= dato.getString(" passw ")%>" />
+                                            <input type="password" name="passw" value="<%= dato.getString("passw")%>" />
 
 
                                             <%  
