@@ -16,17 +16,15 @@ Por otra parte, el administrador será el encargado de dar de alta los juegos en
 
  
 |<img src="capturas/01.png" alt="alt text" width="450" height="250">|<img src="capturas/02.png" alt="alt text" width="450" height="250">|
-
-
+|-----|-----|
 |<img src="capturas/03.png" alt="alt text" width="450" height="250">|<img src="capturas/04.png" alt="alt text" width="450" height="250">|
-
+|-----|-----|
 |<img src="capturas/05.png" alt="alt text" width="450" height="250">|<img src="capturas/06.png" alt="alt text" width="450" height="250">|
-
+|-----|-----|
 |<img src="capturas/07.png" alt="alt text" width="450" height="250">|<img src="capturas/08.png" alt="alt text" width="450" height="250">|
-
-
+|-----|-----|
 |<img src="capturas/09.png" alt="alt text" width="450" height="250">|<img src="capturas/10.png" alt="alt text" width="450" height="250">|
-
+|-----|-----|
 
 
 
