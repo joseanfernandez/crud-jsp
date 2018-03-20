@@ -54,17 +54,21 @@ Si el registro es correcto, nos enviará a la pantalla de login para poder acced
 |-----|-----|
 |     |     |
 
-|<img src="capturas/11.png" alt="alt text" width="450" height="250">|<img src="capturas/12.png" alt="alt text" width="450" height="250">|
+|<img src="capturas/11.png" alt="alt text" width="417" height="250">|
 |-----|-----|
 |     |     |
 
-|<img src="capturas/13.png" alt="alt text" width="450" height="250">|<img src="capturas/14.png" alt="alt text" width="450" height="250">|
+### Administrador
+
+|<img src="capturas/12.png" alt="alt text" width="450" height="250">|<img src="capturas/13.png" alt="alt text" width="450" height="250">|
+|-----------|--------------|
+|Login Admin|Pantalla Admin|
+
+|<img src="capturas/14.png" alt="alt text" width="450" height="250">|<img src="capturas/15.png" alt="alt text" width="450" height="250">|
 |-----|-----|
 |     |     |
 
-|<img src="capturas/15.png" alt="alt text" width="417" height="250">| 
-|-----|
-|     |    
+
 
 
 
