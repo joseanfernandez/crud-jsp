@@ -7,6 +7,7 @@ Además de añadir y eliminar juegos, los usuarios podrán modificar sus datos p
 
 Por otra parte, el administrador será el encargado de dar de alta los juegos en la base de datos o eliminarlos, además de poder gestionar el alta y borrado de usuarios.
 
+
 ## Base de Datos
 
 La base de datos consta de las tablas:
@@ -18,6 +19,7 @@ La base de datos consta de las tablas:
 - Tienen: Almacena los juegos que tiene cada usuario.
 
 <img src="capturas/bbdd2.png" alt="alt text">
+
 
 
 ## Vistas de la aplicación
