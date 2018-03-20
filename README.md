@@ -14,4 +14,4 @@ Por otra parte, el administrador será el encargado de dar de alta los juegos en
 
 ## Vistas de la aplicación
 
-![Index](capturas/01.png)
+![Index](capturas/01.png =250x)
