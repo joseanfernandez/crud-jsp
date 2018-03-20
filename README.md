@@ -29,6 +29,7 @@ Si accedemos vemos la pantalla principal del usuario, que se divide en 4 zonas d
 - A la izquierda nos encontramos la lista de juegos del usuario, que tiene una medida fija, asi que si la superamos, deberemos   hacer scroll para verla completa.
 - Derecha superior, muestra el top 3 de amigos con más juegos.
 - Derecha inferior, nos permite añadir o eliminar juegos de nuestro perfil.
+
 |<img src="capturas/03.png" alt="alt text" width="450" height="250">|<img src="capturas/04.png" alt="alt text" width="450" height="250">|
 |---------|--------|
 |Principal|Buscador|
@@ -40,6 +41,7 @@ Si accedemos vemos la pantalla principal del usuario, que se divide en 4 zonas d
 
 Cuando añadimos o eliminamos un juego o modificamos nuestro perfil de usuario, se nos mostrará durante unos segundos un mensaje de confirmación. "Actualizado correctamente"
 Si por el contrario, intentamos añadir un juego que ya tenemos o intentamos borrar uno que no tenemos, se nos mostrará un mensaje de error.
+
 |<img src="capturas/07.png" alt="alt text" width="450" height="250">|<img src="capturas/08.png" alt="alt text" width="450" height="250">|
 |-------------------------|-----|
 |Actualizado correctamente|Error|
